@@ -1,0 +1,7 @@
+hello david
+java
+is
+object
+oriented
+programming
+language
